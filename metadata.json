@@ -1,0 +1,6 @@
+{
+  "name": "KsTU Connect",
+  "description": "Comprehensive digital ecosystem of Kumasi Technical University (KsTU). Connecting students, lecturers, SRC, and staff for academics, social feed, notice board, marketplace, maps, and AI assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
